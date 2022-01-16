@@ -1,6 +1,8 @@
 # Vehicle-detection-tracking-and-classification using CNN
 Vehicle detection, tracking and classification from video feed
 
+![alt text](https://github.com/Ashutosh27ind/Vehicle-detection-tracking-and-classification/blob/main/vehicle_tracking.PNG?raw=true)
+
 ## Problem statement  
 The problem statement is to detect and identify vehicles in videos. Suppose you want to identify how many vehicles have passed in a lane during peak hours in a city. The purpose of doing this exercise might be multiple:  
 1.	The government can use traffic flow data to decide the width of a new road in a nearby area.  
